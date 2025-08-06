@@ -422,9 +422,8 @@ function Bx() {
 						data-field-width-res-640-value="78" data-field-top-res-960-value="56"
 						data-field-left-res-960-value="90" data-field-height-res-960-value="119"
 						data-field-width-res-960-value="119"> <a class="tn-atom"
-							href="/"> <img class="tn-atom__img t-img"
-								data-original="https://static.tildacdn.com/tild3330-3963-4561-b230-323937393935/-Photoroom.png"
-								src="images/-Photoroom_1.png" alt="" imgfield="tn_img_1743509543315"/>.. </a>
+							href="/"> <img class="tn-atom__img t-img nhh"
+								src="/images/2/logo.png" alt="" imgfield="tn_img_1743509543315"/>.. </a>
 					</div>
 					<div class="t396__elem tn-elem tn-elem__10371490161747809982894" data-elem-id="1747809982894"
 						data-elem-type="text" data-field-top-value="71" data-field-left-value="-672"

@@ -89,9 +89,10 @@ function App() {
 					onClose={onCloseDrawer}
 					open={open}
 					>
-					<a  href="/#"><p onClick={() => onCloseDrawer()}>Some contents...</p></a>
-					<p>Some contents...</p>
-					<p>Some contents...</p>
+					<a  href="#rec1037149021"><p style={{marginBottom: "6px"}} onClick={() => onCloseDrawer()}>О нас</p></a>
+					<a  href="#rec1037149041"><p style={{marginBottom: "6px"}} onClick={() => onCloseDrawer()}>Решения</p></a>
+					<a  href="#rec1037420071"><p style={{marginBottom: "6px"}} onClick={() => onCloseDrawer()}>Качество</p></a>
+					<a  href="#rec1037420071"><p style={{marginBottom: "6px"}} onClick={() => onCloseDrawer()}>Акции</p></a>
 				</Drawer>
 
 			</div> 

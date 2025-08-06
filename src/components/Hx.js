@@ -211,8 +211,7 @@ function Hx() {
 						data-field-width-res-320-value="75" data-field-height-res-480-value="168"
 						data-field-height-res-640-value="168" data-field-height-res-960-value="168"> <a
 							className="tn-atom" href="/"> <img className="tn-atom__img t-img"
-								data-original="https://static.tildacdn.com/tild6466-3536-4233-b737-653737623430/-Photoroom.png"
-								src="images/-Photoroom.png" alt="" imgfield="tn_img_1743509492545"/> </a> </div>
+								src="/images/2/logo.png" alt="" imgfield="tn_img_1743509492545"/> </a> </div>
 				</div>
 			</div>
 			{/* <script>t_onReady(function () { t_onFuncLoad('t396_init', function () { t396_init('1037149096'); }); });</script>
