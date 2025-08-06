@@ -28,7 +28,7 @@ function Bx() {
 						data-field-width-res-960-value="960">
 						<div class="tn-atom t-bgimg"
 							data-original="https://static.tildacdn.com/tild3132-3336-4161-a439-396431613065/3JErOuG6pVc.jpg"
-							style={{backgroundImage: "url('images/3JErOuG6pVc.jpg'), linearGradient(1turn,rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 25%,rgba(0,0,0,0) 52%,rgba(0,0,0,0.78) 100%)"}}
+							style={{backgroundImage: "url('/images/4/banner.webp'), linearGradient(1turn,rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 25%,rgba(0,0,0,0) 52%,rgba(0,0,0,0.78) 100%)"}}
 							aria-label="" role="img"> </div>
 					</div>
 					<div class="t396__elem tn-elem tn-elem__10371490161743088298999" data-elem-id="1743088298999"

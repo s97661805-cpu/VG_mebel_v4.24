@@ -57,7 +57,7 @@ function Cx() {
 						data-field-height-res-960-value="509" data-field-width-res-960-value="590">
 						<div className="tn-atom"> <img className="tn-atom__img t-img"
 								data-original="https://static.tildacdn.com/tild3061-6430-4363-b166-316335316630/IMG_3190.PNG"
-								src="images/IMG_3190.PNG" alt="" imgfield="tn_img_1593029885799"/> </div>
+								src="/images/4/1.webp" alt="" imgfield="tn_img_1593029885799"/> </div>
 					</div>
 					<div className="t396__elem tn-elem tn-elem__10373094011593029984480 t-animate"
 						data-elem-id="1593029984480" data-elem-type="text" data-field-top-value="137"
